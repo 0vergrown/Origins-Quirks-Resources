@@ -1,0 +1,10 @@
+{
+   "move_slector.click":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.move_slector.click",
+      "sounds":[
+         "quirks:move_selector/click"
+      ]
+   }
+}
