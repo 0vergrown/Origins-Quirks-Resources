@@ -1,0 +1,15 @@
+{
+    "origins.gui.choose_quirk.title":"",
+    "origins.gui.view_quirk.title":"",
+    "origins.gui.missing_quirk.name":"",
+    "origins.gui.missing_quirk.description":"",
+
+    "origin.quirks.heal.name":"Heal",
+    "origin.quirks.heal.description":"Amplify and quicken a targets' healing process.",
+    "power.quirks.heal.move_selector.name":"Move Selector",
+    "power.quirks.heal.move_selector.description":"Toggle between two moves to heal others or yourself. [Secondary]",
+    "power.quirks.heal.healing_kiss.name":"Healing Kiss",
+    "power.quirks.heal.healing_kiss.description":"When used, you heal the target by accelerating their natural recovery process. Severe injuries will take longer and drain more stamina from the target, leaving them exhausted. Both slowness and weakness effects will be applied based on the target's current health. The less health they have, the longer and stronger these effects will be. [Right-Click On Entity]",
+    "power.quirks.heal.self_heal.name":"Self-Heal",
+    "power.quirks.heal.self_heal.description":"When activated, you rapidly heal yourself using your own stamina. The lower your health, the longer and stronger the regeneration. However, healing comes with a cost: after healing, you will experience slowness and weakness. The severity of these effects increases as your health decreases. [Primary]"
+}
