@@ -1,8 +1,8 @@
 {
-    "origins.gui.choose_quirk.title":"",
-    "origins.gui.view_quirk.title":"",
-    "origins.gui.missing_quirk.name":"",
-    "origins.gui.missing_quirk.description":"",
+    "origins.gui.choose_quirk.title":"Choose your Quirk.",
+    "origins.gui.view_quirk.title":"This is your Quirk.",
+    "origins.gui.missing_quirk.name":"Missing",
+    "origins.gui.missing_quirk.description":"An error occurred. You do not have an Quirk.",
 
     "origin.quirks.heal.name":"Heal",
     "origin.quirks.heal.description":"Amplify and quicken a targets' healing process.",
