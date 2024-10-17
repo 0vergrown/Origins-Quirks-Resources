@@ -6,5 +6,13 @@
       "sounds":[
          "quirks:move_selector/click"
       ]
+   },
+   "severance.slash":{
+      "category":"master",
+      "replace":false,
+      "subtitle":"subtitles.quirks.severance.slash",
+      "sounds":[
+         "quirks:severance/slash"
+      ]
    }
 }
