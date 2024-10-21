@@ -13,6 +13,10 @@
     "power.quirks.heal.self_heal.name":"Self-Heal",
     "power.quirks.heal.self_heal.description":"When activated, you rapidly heal yourself using your own stamina. The lower your health, the longer and stronger the regeneration. However, healing comes with a cost: after healing, you will experience slowness and weakness. The severity of these effects increases as your health decreases. [Primary]",
 
+    "origin.quirks.severance.name":"Severance",
+    "origin.quirks.severance.description":"Unleash slashes at long-range or through physical contact, to cut down enemies. This Quirk also empowers you to unleash a burning hellfire arrow.",
     "death.attack.cleave":"%1$s was sliced to pieces.",
-    "death.attack.cleave.player":"%1$s was sliced to pieces while fighting %2$s."
+    "death.attack.cleave.player":"%1$s was sliced to pieces while fighting %2$s.",
+    "title.text.quirks.severance.open_flame.command_1":"Open...",
+    "title.text.quirks.severance.open_flame.command_2":"Flame"
 }
