@@ -1,4 +1,12 @@
 {
+   "heal.kiss":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.heal.kiss",
+      "sounds":[
+         "quirks:heal/kiss"
+      ]
+   },
    "move_slector.click":{
       "category":"player",
       "replace":false,
