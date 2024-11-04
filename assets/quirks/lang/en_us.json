@@ -32,17 +32,17 @@
    "power.quirks.heal.self_heal.description":"Using their own healing ability, the user restores their health, with the same principles applying. The more health the user needs to recover, the greater the stamina cost. The move sacrifices speed and strength temporarily to regain health, leaving the user with slowness and weakness proportional to the health restored. [Primary]\n\n- §lHealth Recovery§r: Based on user's current health.\n- §lStamina Cost§r: As with Healing Kiss, greater health recovery results in more severe stamina depletion.",
    
    "origin.quirks.severance.name":"Severance",
-   "origin.quirks.severance.description":"Quirk Type: Emitter\n\nGrants the user the ability to create and manipulate slashes to produce slicing attacks.",
+   "origin.quirks.severance.description":"Quirk Type: Emitter\n\nGrants the user the ability to create and manipulate slashes, generating powerful, controlled slicing attacks that can target individuals, objects, or multiple points in space.",
    "power.quirks.severance.dismantle.name":"Dismantle (Slot 1)",
-   "power.quirks.severance.dismantle.description":"The user creates a slash that can be launched point-blank or at range, and can be used against inanimate objects, people and monsters with great effectiveness. [Primary]",
+   "power.quirks.severance.dismantle.description":"The default slashing attack that the user can launch at range or point-blank, used for slicing through obstacles or opponents. [Primary]",
    "power.quirks.severance.cleave.name":"Cleave (Slot 2)",
-   "power.quirks.severance.cleave.description":"Upon physical contact, the user adjusts the slash's power depending on the target's armor toughness and health to cut them down. [Hit Entity]",
+   "power.quirks.severance.cleave.description":"This technique allows the user to adapt the intensity of the slash based on the toughness of the target’s defenses. [Hit Entity]",
    "power.quirks.severance.rend.name":"Rend (Slot 3)",
-   "power.quirks.severance.rend.description":"The user focuses on a point within a target causing them to tear apart from the inside. [Primary]",
+   "power.quirks.severance.rend.description":"A specialized technique for inflicting internal damage, allowing the user to release a focused slash inside a target to rupture their internal structure. [Primary]",
    "power.quirks.severance.severing_barrage.name":"Severing Barrage (Slot 4)",
-   "power.quirks.severance.severing_barrage.description":"The user rapidly generates multiple slashes in quick succession, creating a barrage that focuses on a target or sweeps across an area. [Primary]",
+   "power.quirks.severance.severing_barrage.description":"A rapid-fire technique that produces multiple slashes in quick succession, capable of focusing on one target or sweeping an area. [Primary]",
    "power.quirks.severance.razor.name":"Razor (Slot 5)",
-   "power.quirks.severance.razor.description":"The user creates a massive, sweeping slash that cuts through everything in a wide arc ahead of them. [Primary]",
+   "power.quirks.severance.razor.description":"The ultimate sweeping slash that creates a massive arc, capable of cutting through obstacles and multiple targets in its path. [Primary]",
    "death.attack.cleave":"%1$s was sliced to pieces.",
    "death.attack.cleave.player":"%1$s was sliced to pieces while fighting %2$s."
 }
