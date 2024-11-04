@@ -3,7 +3,7 @@
    "origins.gui.view_quirk.title":"This is your Quirk.",
    "origins.gui.missing_quirk.name":"Missing",
    "origins.gui.missing_quirk.description":"An error occurred. You do not have an Quirk.",
-    
+   
    "origin.quirks.acid.name":"Acid",
    "origin.quirks.acid.description":"Quirk Type: Emitter\n\nThe Acid Quirk grants the user the ability to produce and manipulate a corrosive liquid from their body, allowing for a wide variety of offensive and defensive capabilities. This quirk is highly versatile, offering both ranged and close-combat options, as well as defensive shielding.",
    "badge.quirks.acid.move_selector":"Pressing [%1$s] will go up, and [%2$s] + [%3$s] will go down.",
@@ -21,7 +21,7 @@
    "power.quirks.acid.acidman.description":"The user envelops their entire body in a large mass of acid, becoming a living shield. While coated in this acid, the user is highly resistant to physical damage and can melt anything that comes into contact with them. Additionally, when Acidman is activated, the corrosive liquid generation is reduced to 0.5 units per second, as the active maintenance of this ability requires more energy. [Primary]",
    "power.quirks.acid.alma.name":"Alma (Slot 5)",
    "power.quirks.acid.alma.description":"Fling the mass of acid generated from Acidman at an opponent, turning their entire body into a projectile. [Primary]",
-    
+   
    "origin.quirks.heal.name":"Heal",
    "origin.quirks.heal.description":"Quirk Type: Emitter\n\nThe Heal Quirk grants the user the ability to heal themselves and others, accelerating natural recovery processes. However, the greater the amount of health restored, the more stamina the user expends. The Quirk works both on living creatures and the user themselves, with a focus on rapid, targeted healing at a personal cost.",
    "power.quirks.heal.move_selector.name":"Move Selector",
@@ -30,32 +30,19 @@
    "power.quirks.heal.healing_kiss.description":"The user channels their healing ability through a kiss-like gesture or action, focusing on an ally or mob. The amount of health recovered depends on the target's current health, with those more severely injured receiving stronger regeneration. However, the larger the health recovery, the more stamina the user loses, leading to temporary slowness and weakness effects. [Right-Click On Entity]\n\n- §lHealth Recovery§r: Scales with target's current health.\n- §lStamina Cost§r: The more health recovered, the greater the slowness and weakness effect on the user.",
    "power.quirks.heal.self_heal.name":"Self-Heal (Slot 2)",
    "power.quirks.heal.self_heal.description":"Using their own healing ability, the user restores their health, with the same principles applying. The more health the user needs to recover, the greater the stamina cost. The move sacrifices speed and strength temporarily to regain health, leaving the user with slowness and weakness proportional to the health restored. [Primary]\n\n- §lHealth Recovery§r: Based on user's current health.\n- §lStamina Cost§r: As with Healing Kiss, greater health recovery results in more severe stamina depletion.",
-    
-   "text.quirks.power_reserve.kinetic_charge.five_percent":"Power Reserve - 5%",
-   "text.quirks.power_reserve.kinetic_charge.ten_percent":"Power Reserve - 10%",
-   "text.quirks.power_reserve.kinetic_charge.fifteen_percent":"Power Reserve - 15%",
-   "text.quirks.power_reserve.kinetic_charge.twenty_percent":"Power Reserve - 20%",
-   "text.quirks.power_reserve.kinetic_charge.twenty_five_percent":"Power Reserve - 25%",
-   "text.quirks.power_reserve.kinetic_charge.thirty_percent":"Power Reserve - 30%",
-   "text.quirks.power_reserve.kinetic_charge.thirty_five_percent":"Power Reserve - 35%",
-   "text.quirks.power_reserve.kinetic_charge.forty_percent":"Power Reserve - 40%",
-   "text.quirks.power_reserve.kinetic_charge.forty_five_percent":"Power Reserve - 45%",
-   "text.quirks.power_reserve.kinetic_charge.fifty_percent":"Power Reserve - 50%",
-   "text.quirks.power_reserve.kinetic_charge.fifty_five_percent":"Power Reserve - 55%",
-   "text.quirks.power_reserve.kinetic_charge.sixty_percent":"Power Reserve - 60%",
-   "text.quirks.power_reserve.kinetic_charge.sixty_five_percent":"Power Reserve - 65%",
-   "text.quirks.power_reserve.kinetic_charge.seventy_percent":"Power Reserve - 70%",
-   "text.quirks.power_reserve.kinetic_charge.seventy_five_percent":"Power Reserve - 75%",
-   "text.quirks.power_reserve.kinetic_charge.eighty_percent":"Power Reserve - 80%",
-   "text.quirks.power_reserve.kinetic_charge.eighty_five_percent":"Power Reserve - 85%",
-   "text.quirks.power_reserve.kinetic_charge.ninety_percent":"Power Reserve - 90%",
-   "text.quirks.power_reserve.kinetic_charge.ninety_five_percent":"Power Reserve - 95%",
-   "text.quirks.power_reserve.kinetic_charge.one_hundred_percent":"Power Reserve - 100%",
-    
+   
    "origin.quirks.severance.name":"Severance",
-   "origin.quirks.severance.description":"Unleash slashes at long-range or through physical contact, to cut down enemies. This Quirk also empowers you to unleash a burning hellfire arrow.",
+   "origin.quirks.severance.description":"Quirk Type: Emitter\n\nGrants the user the ability to create and manipulate slashes to produce slicing attacks.",
+   "power.quirks.severance.dismantle.name":"Dismantle (Slot 1)",
+   "power.quirks.severance.dismantle.description":"The user creates a slash that can be launched point-blank or at range, and can be used against inanimate objects, people and monsters with great effectiveness. [Primary]",
+   "power.quirks.severance.cleave.name":"Cleave (Slot 2)",
+   "power.quirks.severance.cleave.description":"Upon physical contact, the user adjusts the slash's power depending on the target's armor toughness and health to cut them down. [Primary]",
+   "power.quirks.severance.severing_barrage.name":"Severing Barrage (Slot 3)",
+   "power.quirks.severance.severing_barrage.description":"The user rapidly generates multiple slashes in quick succession, creating a barrage that focuses on a target or sweeps across an area. [Primary]",
+   "power.quirks.severance.rend.name":"Rend (Slot 4)",
+   "power.quirks.severance.rend.description":"The user focuses on a point within a target causing them to tear apart from the inside. [Primary]",
+   "power.quirks.severance.razor.name":"Razor (Slot 5)",
+   "power.quirks.severance.razor.description":"The user creates a massive, sweeping slash that cuts through everything in a wide arc ahead of them. [Primary]",
    "death.attack.cleave":"%1$s was sliced to pieces.",
-   "death.attack.cleave.player":"%1$s was sliced to pieces while fighting %2$s.",
-   "title.text.quirks.severance.open_flame.command_1":"Open...",
-   "title.text.quirks.severance.open_flame.command_2":"Flame"
+   "death.attack.cleave.player":"%1$s was sliced to pieces while fighting %2$s."
 }
