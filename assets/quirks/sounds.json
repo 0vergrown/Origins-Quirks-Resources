@@ -22,5 +22,13 @@
       "sounds":[
          "quirks:severance/slash"
       ]
+   },
+   "severance.impale":{
+      "category":"master",
+      "replace":false,
+      "subtitle":"subtitles.quirks.severance.impale",
+      "sounds":[
+         "quirks:severance/impale"
+      ]
    }
 }
