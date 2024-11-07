@@ -1,4 +1,36 @@
 {
+   "acid.acid_shot_fired":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.acid.acid_shot_fired",
+      "sounds":[
+         "quirks:acid/acid_shot_fired"
+      ]
+   },
+   "acid.acid_shot_hit":{
+      "category":"ambient",
+      "replace":false,
+      "subtitle":"subtitles.quirks.acid.acid_shot_hit",
+      "sounds":[
+         "quirks:acid/acid_shot_hit"
+      ]
+   },
+   "acid.acidman_activate":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.acid.acidman_activate",
+      "sounds":[
+         "quirks:acid/acidman_activate"
+      ]
+   },
+   "acid.alma":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.acid.alma",
+      "sounds":[
+         "quirks:acid/alma"
+      ]
+   },
    "heal.kiss":{
       "category":"player",
       "replace":false,

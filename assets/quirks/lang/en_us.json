@@ -22,7 +22,7 @@
    "power.quirks.acid.alma.name":"Alma (Slot 5)",
    "power.quirks.acid.alma.description":"Fling the mass of acid generated from Acidman at an opponent, turning their entire body into a projectile. [Primary]",
    "death.attack.acid_corrosion": "%1$s was dissolved by acid.",
-   "death.attack.acid_corrosion.player": "%1$s was dissolved by acid while fighting %2$s."
+   "death.attack.acid_corrosion.player": "%1$s was dissolved by acid while fighting %2$s.",
    
    "origin.quirks.heal.name":"Heal",
    "origin.quirks.heal.description":"Quirk Type: Emitter\n\nThe Heal Quirk grants the user the ability to heal themselves and others, accelerating natural recovery processes. However, the greater the amount of health restored, the more stamina the user expends. The Quirk works both on living creatures and the user themselves, with a focus on rapid, targeted healing at a personal cost.",
