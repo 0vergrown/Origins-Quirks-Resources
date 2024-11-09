@@ -31,6 +31,14 @@
          "quirks:acid/alma"
       ]
    },
+   "acid.awakening":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.acid.awakening",
+      "sounds":[
+         "quirks:acid/acid_awakening"
+      ]
+   },
    "heal.kiss":{
       "category":"player",
       "replace":false,
