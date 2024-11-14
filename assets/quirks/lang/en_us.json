@@ -38,7 +38,7 @@
    "power.quirks.severance.dismantle.name":"Dismantle (Slot 1)",
    "power.quirks.severance.dismantle.description":"The default slashing attack that the user can launch at range or point-blank, used for slicing through obstacles or opponents. [Primary]",
    "power.quirks.severance.cleave.name":"Cleave (Slot 2)",
-   "power.quirks.severance.cleave.description":"This technique allows the user to adapt the intensity of the slash based on the toughness of the target’s defenses. [Hit Entity]",
+   "power.quirks.severance.cleave.description":"This technique allows the user to adapt the intensity of the slash based on the toughness of the target's defenses. [Hit Entity]",
    "power.quirks.severance.rend.name":"Rend (Slot 3)",
    "power.quirks.severance.rend.description":"A specialized technique for inflicting internal damage, allowing the user to release a focused slash inside a target to rupture their internal structure. [Primary]",
    "power.quirks.severance.severing_barrage.name":"Severing Barrage (Slot 4)",
@@ -46,5 +46,18 @@
    "power.quirks.severance.razor.name":"Razor (Slot 5)",
    "power.quirks.severance.razor.description":"The ultimate sweeping slash that creates a massive arc, capable of cutting through obstacles and multiple targets in its path. [Primary]",
    "death.attack.cleave":"%1$s was sliced to pieces.",
-   "death.attack.cleave.player":"%1$s was sliced to pieces while fighting %2$s."
+   "death.attack.cleave.player":"%1$s was sliced to pieces while fighting %2$s.",
+
+   "origin.quirks.smokescreen.name":"Smokescreen",
+   "origin.quirks.smokescreen.description":"Quirk Type: Emitter\n\nAllows the user to generate a thick cloud of purple smoke from any part of their body. The smoke can be spread to cover a wide area, obscuring the vision of opponents and providing cover.",
+   "power.quirks.smokescreen.full_blast.name":"Full Blast (Slot 1)",
+   "power.quirks.smokescreen.full_blast.description":"Emit a large amount of smoke to cover a wide area, enveloping the surroundings and blinding opponents.",
+   "power.quirks.smokescreen.concealment_veil.name":"Concealment Veil (Slot 2)",
+   "power.quirks.smokescreen.concealment_veil.description":"Emits a controlled, layer of smoke at the user's anchor point for a few seconds, making it difficult for opponents to detect their movements.",
+   "power.quirks.smokescreen.smoke_trail.name":"Smoke Trail (Slot 3)",
+   "power.quirks.smokescreen.smoke_trail.description":"Releases smoke in bursts as they move, creating a \"smoke trail\" effect. This makes it difficult for enemies to anticipate or follow the user's exact movements, allowing the user to escape or reposition during combat.",
+   "power.quirks.smokescreen.breath_weapon.name":"Breath Weapon (Slot 4)",
+   "power.quirks.smokescreen.breath_weapon.description":"The user channels smoke through their respiratory system, emitting it directly from their mouth in controlled amounts. This move allows for precise smoke bursts in any direction the user faces, helpful for creating sudden, close-range blinds or throwing off a specific target's aim.",
+   "power.quirks.smokescreen.vanish.name":"Vanish (Slot 5)",
+   "power.quirks.smokescreen.vanish.description":"Blend with the smoke itself. Although it doesn't make the user invulnerable, it makes them exceedingly difficult to detect."
 }
