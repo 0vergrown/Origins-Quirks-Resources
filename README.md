@@ -2,6 +2,7 @@
 
 **This Pack Adds:**
 - Custom Textures
+- Custom Sounds
 - Language Translation
   
 ---
