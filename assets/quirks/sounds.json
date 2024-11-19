@@ -70,5 +70,29 @@
       "sounds":[
          "quirks:severance/impale"
       ]
+   },
+   "smokescreen.concealment_veil.release":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.smokescreen.concealment_veil.release",
+      "sounds":[
+         "quirks:smokescreen/concealment_veil"
+      ]
+   },
+   "smokescreen.full_blast.release":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.smokescreen.full_blast.release",
+      "sounds":[
+         "quirks:smokescreen/full_blast"
+      ]
+   },
+   "smokescreen.smoke_trail.release":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.smokescreen.smoke_trail.release",
+      "sounds":[
+         "quirks:smokescreen/smoke_trail"
+      ]
    }
 }
