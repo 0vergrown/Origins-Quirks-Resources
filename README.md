@@ -1,4 +1,4 @@
-# Origins: Quirks (Resources)
+# Origins: Quirks (Resources) [1.20.x]
 
 **This Pack Adds:**
 - Custom Textures
