@@ -1,4 +1,12 @@
 {
+   "support_item.impact_absorbing_boots_hydraulic_landing":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.support_item.impact_absorbing_boots_hydraulic_landing",
+      "sounds":[
+         "quirks:support_item/impact_absorbing_boots/hydraulic_landing"
+      ]
+   },
    "acid.acid_shot_fired":{
       "category":"player",
       "replace":false,
