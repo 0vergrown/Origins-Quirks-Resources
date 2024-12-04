@@ -1,5 +1,5 @@
 {
-   "parent":"minecraft:item/carved_pumpkin",
+   "parent":"minecraft:item/generated",
    "textures":{
       "layer0":"minecraft:item/carved_pumpkin"
    },
@@ -12,9 +12,21 @@
       },
       {
          "predicate":{
+            "custom_model_data":381410
+         },
+         "model":"quirks:dark_shadow/dark_shadow_head"
+      },
+      {
+         "predicate":{
             "custom_model_data":385957
          },
          "model":"quirks:dark_shadow/dark_shadow_idle"
+      },
+      {
+         "predicate":{
+            "custom_model_data":538367
+         },
+         "model":"quirks:overhaul/yancos_mask"
       }
    ]
-} 
+}

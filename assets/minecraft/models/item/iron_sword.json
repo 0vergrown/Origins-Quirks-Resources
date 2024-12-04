@@ -1,0 +1,14 @@
+{
+    "textures": {
+      "layer0": "item/iron_sword"
+    },
+    "parent": "item/handheld_rod",
+    "overrides": [
+      {
+        "predicate":{
+            "custom_model_data":538367
+         },
+         "model":"quirks:dark_shadow/dark_shadow_arm"
+    }
+    ]
+  }
