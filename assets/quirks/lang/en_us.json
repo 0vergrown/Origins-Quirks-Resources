@@ -5,9 +5,7 @@
    "origins.gui.missing_quirk.description":"An error occurred. You do not have an Quirk.",
 
    "item_modifier.quirks.support_item.impact_absorbing_boots.name":"Impact-Absorbing Boots",
-   "item_modifier.quirks.support_item.impact_absorbing_boots.lore":"A cutting-edge support item that's equipped with advanced shock-absorption technology that significantly reduces the impact of falls.",
-   "power.quirks.support_item.impact_absorbing_boots.name":"Shock-Absorption Technology",
-   "power.quirks.support_item.impact_absorbing_boots.description":"The boots are also equipped with a gyroscopic mechanism that helps maintain balance and prevent awkward landings from up to 25 blocks.",
+   "item_modifier.quirks.support_item.impact_absorbing_boots.lore":"A cutting-edge support item that's equipped with a gyroscopic mechanism that helps maintain balance and prevent awkward landings from up to 25 blocks."
 
    "origin.quirks.acid.name":"Acid",
    "origin.quirks.acid.description":"Quirk Type: Emitter\n\nThe Acid Quirk grants the user the ability to produce and manipulate a corrosive liquid from their body, allowing for a wide variety of offensive and defensive capabilities. This quirk is highly versatile, offering both ranged and close-combat options, as well as defensive shielding.",
