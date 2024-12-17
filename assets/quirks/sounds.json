@@ -47,6 +47,14 @@
          "quirks:acid/acid_awakening"
       ]
    },
+   "explosion.stun_grenade_charging":{
+      "category":"player",
+      "replace":false,
+      "subtitle":"subtitles.quirks.explosion.stun_grenade_charging",
+      "sounds":[
+         "quirks:explosion/stun_grenade_charging"
+      ]
+   },
    "heal.kiss":{
       "category":"player",
       "replace":false,
