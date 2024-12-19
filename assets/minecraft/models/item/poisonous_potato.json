@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:item/poisonous_potato",
+    "ambientocclusion": false,
+    "textures": {
+      "layer0": "minecraft:item/poisonous_potato"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 825217
+        },
+        "model": "quirks:explosion/grenadier_bracers"
+      }
+    ]
+}
