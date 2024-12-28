@@ -27,6 +27,12 @@
             "custom_model_data":538367
          },
          "model":"quirks:overhaul/yancos_mask"
+      },
+      {
+         "predicate":{
+            "custom_model_data":606206
+         },
+         "model":"quirks:explosion/land_mine_blast_wave"
       }
    ]
 }
