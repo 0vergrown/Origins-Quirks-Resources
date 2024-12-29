@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/poisonous_potato",
+    "parent": "minecraft:item/generated",
     "ambientocclusion": false,
     "textures": {
       "layer0": "minecraft:item/poisonous_potato"

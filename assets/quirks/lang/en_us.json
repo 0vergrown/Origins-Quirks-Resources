@@ -5,7 +5,13 @@
    "origins.gui.missing_quirk.description":"An error occurred. You do not have an Quirk.",
 
    "item_modifier.quirks.support_item.impact_absorbing_boots.name":"Impact-Absorbing Boots",
-   "item_modifier.quirks.support_item.impact_absorbing_boots.lore":"A cutting-edge support item that's equipped with a gyroscopic mechanism that helps maintain balance and prevent awkward landings from up to 25 blocks.",
+   "item_modifier.quirks.support_item.impact_absorbing_boots.lore":"A cutting-edge support item equipped with a gyroscopic mechanism that helps maintain balance and prevents awkward landings from heights of up to 25 blocks.",
+   "item_modifier.quirks.support_item.grenadier_bracers.name":"Grenadier Bracers",
+   "item_modifier.quirks.support_item.grenadier_bracers.lore":"Designed to collect and store the user's Nitro-Sweat. Once filled, they can unleash a massive, powerful blast capable of causing significant destruction.",
+   "actionbar.quirks.explosion.selected_mode_ap_shot.message":"§7A.P.§r §6Shot",
+   "actionbar.quirks.explosion.selected_mode_auto_cannon.message":"§7A.P. Shot§r:§6 Auto-Cannon",
+   "actionbar.quirks.explosion.selected_mode_machine_gun.message":"§7A.P. Shot§r:§6 Machine-Gun",
+   "actionbar.quirks.explosion.support_item_grenadier_bracers.message":"§7Grenadier Bracers§r:§6 Full",
 
    "origin.quirks.acid.name":"Acid",
    "origin.quirks.acid.description":"Quirk Type: Emitter\n\nThe Acid Quirk grants the user the ability to produce and manipulate a corrosive liquid from their body, allowing for a wide variety of offensive and defensive capabilities. This quirk is highly versatile, offering both ranged and close-combat options, as well as defensive shielding.",
